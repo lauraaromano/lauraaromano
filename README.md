@@ -10,21 +10,13 @@
 
 # 💜 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas - PUCRS**
+# 💜 Sobre mim
 
-🧪 Apaixonada por **Qualidade de Software** e **Automação de Testes**
+Me chamo **Laura Romano** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou direcionando minha carreira para a área de **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes manuais, automação de testes, testes de API e banco de dados.
 
-🚀 Atualmente estudando:
+Busco evoluir constantemente por meio de cursos, projetos práticos e estudos voltados à qualidade de software. Atualmente, estudo automação de testes com **Playwright**, além de aprofundar meus conhecimentos em **Git**, **SQL**, **Postman** e **metodologias ágeis**.
 
-- Playwright
-- Cypress
-- Testes de API
-- JavaScript
-- Node.js
-
-💡 Buscando evoluir constantemente e contribuir para a entrega de softwares com mais qualidade.
-
----
+Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais confiáveis, ajudando a garantir qualidade em todas as etapas do processo de desenvolvimento.
 
 # 🚀 Tecnologias
 
