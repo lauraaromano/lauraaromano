@@ -10,8 +10,6 @@
 
 # 💜 Sobre mim
 
-# 💜 Sobre mim
-
 Me chamo **Laura Romano** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou direcionando minha carreira para a área de **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes manuais, automação de testes, testes de API e banco de dados.
 
 Busco evoluir constantemente por meio de cursos, projetos práticos e estudos voltados à qualidade de software. Atualmente, estudo automação de testes com **Playwright**, além de aprofundar meus conhecimentos em **Git**, **SQL**, **Postman** e **metodologias ágeis**.
