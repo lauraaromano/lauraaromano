@@ -8,7 +8,7 @@
 
 ---
 
-# 🩷 Sobre mim
+# 🎀 Sobre mim
 
 Me chamo **Laura Romano** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou direcionando minha carreira para a área de **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes manuais, automação de testes, testes de API e banco de dados.
 
@@ -18,7 +18,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🩷 Tecnologias
+# ‧₊˚♡ Tecnologias ♡‧₊˚
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🩷 Conecte-se comigo
+# ♡ Conecte-se comigo ♡
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🩷 Contribuições
+# ‧₊˚♡ Contribuições ♡‧₊˚
 
 <div align="center">
 
