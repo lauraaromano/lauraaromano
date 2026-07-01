@@ -15,7 +15,7 @@ Busco evoluir constantemente por meio de cursos, projetos práticos e estudos vo
 
 Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais confiáveis, ajudando a garantir qualidade em todas as etapas do processo de desenvolvimento.
 
-# 🚀 Tecnologias
+# Tecnologias
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🌐 Conecte-se comigo
+# Conecte-se comigo
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🐍 Contribuições
+# Contribuições
 
 <div align="center">
 
