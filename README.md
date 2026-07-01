@@ -44,7 +44,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# Contribuições 
+# 🌷 Contribuições 
 
 <div align="center">
 
