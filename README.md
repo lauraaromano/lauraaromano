@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 # 💜 Sobre mim
 
 Me chamo **Laura Romano** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente, estou direcionando minha carreira para a área de **Quality Assurance (QA)**, desenvolvendo conhecimentos em testes manuais, automação de testes, testes de API e banco de dados.
