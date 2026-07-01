@@ -18,7 +18,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# ‧₊˚♡ Tecnologias ♡‧₊˚
+# ⚛︎ Tecnologias 
 
 <div align="center">
 
