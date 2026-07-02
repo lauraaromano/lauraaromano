@@ -41,7 +41,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 </a>
 
 <a href="mailto:lauraromano2018@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
