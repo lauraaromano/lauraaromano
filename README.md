@@ -58,7 +58,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 <div align="center">
 
-### 💖 Obrigada pela visita!
+### Obrigada pela visita!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
