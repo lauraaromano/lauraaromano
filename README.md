@@ -40,7 +40,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="mailto:lauraromano2018@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -53,11 +53,12 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 </a>
 
 </div>
+
 ---
 
 <div align="center">
 
-### 💖 Obrigada pela visita!
+### Obrigada pela visita!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
