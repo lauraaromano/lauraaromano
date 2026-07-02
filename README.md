@@ -41,7 +41,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 </a>
 
 <a href="mailto:lauraromano2018@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-lauraromano2018%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
@@ -51,10 +51,6 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 <a href="#">
 <img src="https://img.shields.io/badge/Currículo-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
-
-<br><br>
-
-📧 **lauraromano2018@gmail.com**
 
 </div>
 
