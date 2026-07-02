@@ -18,7 +18,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🦩 Tecnologias 
+# 🦩 Tecnologias
 
 <div align="center">
 
@@ -32,7 +32,7 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# ღ Conecte-se comigo 
+# ღ Conecte-se comigo
 
 <div align="center">
 
@@ -44,19 +44,9 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 
 ---
 
-# 🌷 Contribuições 
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lauraaromano/lauraaromano/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-###  Obrigada pela visita!
+### 💖 Obrigada pela visita!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
