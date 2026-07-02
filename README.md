@@ -40,7 +40,9 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/lauraromano2018%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:lauraromano2018@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="#">
 <img src="https://img.shields.io/badge/Portfólio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -50,13 +52,17 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 <img src="https://img.shields.io/badge/Currículo-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
+<br><br>
+
+📧 **lauraromano2018@gmail.com**
+
 </div>
 
 ---
 
 <div align="center">
 
-### Obrigada pela visita!
+### 💖 Obrigada pela visita!
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
