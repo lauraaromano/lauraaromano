@@ -40,8 +40,19 @@ Meu objetivo é contribuir para o desenvolvimento de softwares cada vez mais con
 <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="#">
+<img src="https://img.shields.io/badge/E--mail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/Portfólio-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Currículo-FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 <div align="center">
