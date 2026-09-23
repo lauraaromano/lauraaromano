@@ -10,7 +10,7 @@
 
 # 🎀 Sobre mim
 
-Me chamo **Laura Romano** e sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Quality Assurance (QA)**.
+Me chamo **Laura Romano** e sou estudante de **Informática para Internet**, com foco em **Quality Assurance (QA)**.
 
 Tenho direcionado minha carreira para a área de qualidade de software, desenvolvendo conhecimentos em **testes manuais**, **automação de testes**, **testes de API**, **banco de dados** e **testes end-to-end (E2E)**.
 
